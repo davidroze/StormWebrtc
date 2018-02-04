@@ -15,6 +15,3 @@ StormWebrtcClientTest/Main.cpp
 
 Based on techniques described in this article
 http://www.stormbrewers.com/blog/webrtc-data-channels-without-signaling-aka-hacking-the-crap-out-of-webrtc/
-
-test commit fdsfds ddssdfsdfsdf
-trying sadsa
