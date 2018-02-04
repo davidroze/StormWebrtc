@@ -38,6 +38,7 @@ int main()
       switch (ev.m_Type)
       {
       case StormWebrtcEventType::kConnected:
+    	    printf("good");
         clients[ev.m_ConnectionHandle.m_SlotId].m_HasClient = true;
         clients[ev.m_ConnectionHandle.m_SlotId].m_GotURL = false;
         clients[ev.m_ConnectionHandle.m_SlotId].m_ConnectionHandle =
